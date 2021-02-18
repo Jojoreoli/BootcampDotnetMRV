@@ -1,0 +1,16 @@
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\CriandoAppSimples\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
