@@ -9,7 +9,6 @@ C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\DesenvolvendoAppDotnet\Curs
 C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\DesenvolvendoAppDotnet\CursoMVC\CursoMVC\bin\Debug\net5.0\CursoMVC.pdb
 C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\DesenvolvendoAppDotnet\CursoMVC\CursoMVC\bin\Debug\net5.0\CursoMVC.Views.dll
 C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\DesenvolvendoAppDotnet\CursoMVC\CursoMVC\bin\Debug\net5.0\CursoMVC.Views.pdb
-C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\DesenvolvendoAppDotnet\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.csprojAssemblyReference.cache
 C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\DesenvolvendoAppDotnet\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\DesenvolvendoAppDotnet\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.AssemblyInfoInputs.cache
 C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\DesenvolvendoAppDotnet\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.AssemblyInfo.cs
