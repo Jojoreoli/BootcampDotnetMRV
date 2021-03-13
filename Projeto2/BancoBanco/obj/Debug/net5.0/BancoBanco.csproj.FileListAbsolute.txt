@@ -1,0 +1,16 @@
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\bin\Debug\net5.0\BancoBanco.exe
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\bin\Debug\net5.0\BancoBanco.deps.json
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\bin\Debug\net5.0\BancoBanco.runtimeconfig.json
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\bin\Debug\net5.0\BancoBanco.runtimeconfig.dev.json
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\bin\Debug\net5.0\BancoBanco.dll
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\bin\Debug\net5.0\ref\BancoBanco.dll
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\bin\Debug\net5.0\BancoBanco.pdb
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\BancoBanco.csprojAssemblyReference.cache
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\BancoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\BancoBanco.AssemblyInfoInputs.cache
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\BancoBanco.AssemblyInfo.cs
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\BancoBanco.csproj.CoreCompileInputs.cache
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\BancoBanco.dll
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\ref\BancoBanco.dll
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\BancoBanco.pdb
+C:\Users\joaor\Desktop\bootcampMRV\BootcampDotnetMRV\Projeto2\BancoBanco\obj\Debug\net5.0\BancoBanco.genruntimeconfig.cache
