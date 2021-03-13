@@ -52,7 +52,7 @@ namespace BancoBanco.Classes
       }
     }
 
-    // Sobrescrevendod o ToString pra que ele não retorne o tipo de objeto
+    // Sobrescrevendo o ToString pra que ele não retorne o tipo de objeto
     public override string ToString()
     {
       string retorno = "";

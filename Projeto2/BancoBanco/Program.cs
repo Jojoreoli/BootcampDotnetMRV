@@ -6,9 +6,8 @@ namespace BancoBanco
 {
   class Program
   {
-
-    static List<Conta> listaDeContas = new List<Conta>();
-    static void Main(string[] args)
+    private static readonly List<Conta> listaDeContas = new();
+    static void Main()
     {
       string opcaoSelecionada = MenuOpcoes();
       while (opcaoSelecionada.ToUpper() != "X")
@@ -31,7 +30,8 @@ namespace BancoBanco
             Depositar();
             break;
           default:
-            throw new ArgumentOutOfRangeException();
+            Console.WriteLine("Comando inválido!");
+            return;
         }
         opcaoSelecionada = MenuOpcoes();
       }
@@ -77,7 +77,7 @@ namespace BancoBanco
       Console.Write("Digite o CRÉDITO do cliente: ");
       double creditoCliente = double.Parse(Console.ReadLine());
 
-      Conta novaConta = new Conta
+      Conta novaConta = new 
       (tipo: (Tipo)escolhaTipoDaConta,
       saldo: saldoInicial,
       credito: creditoCliente,
